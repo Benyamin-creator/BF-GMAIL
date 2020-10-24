@@ -1,5 +1,7 @@
 # BF-GMAIL
 
+BF-GMAIL es una herramienta que sirve para crackear contraseñas mediante fuerza bruta utilizando hydra
+
 # how to install
 
 # git clone https://github.com/Benyamin-creator/BF-GMAIL 
