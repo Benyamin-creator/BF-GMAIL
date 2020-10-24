@@ -1,6 +1,6 @@
 # BF-GMAIL
 
-BF-GMAIL es una herramienta que sirve para crackear contraseñas mediante fuerza bruta utilizando hydra
+BF-GMAIL es una herramienta que sirve para crackear contraseñas de gmail mediante fuerza bruta utilizando hydra
 
 # how to install
 
